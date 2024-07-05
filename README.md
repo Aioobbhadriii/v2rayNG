@@ -26,7 +26,7 @@ A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-cor
 
 ### More in our [wiki](https://github.com/2dust/v2rayNG/wiki)
 
-### Development guide
+### Development guideggff
 
 Android project under V2rayNG folder can be compiled directly in Android Studio, or using Gradle wrapper. But the v2ray core inside the aar is (probably) outdated.  
 The aar can be compiled from the Golang project [AndroidLibV2rayLite](https://github.com/2dust/AndroidLibV2rayLite) or [AndroidLibXrayLite](https://github.com/2dust/AndroidLibXrayLite).
